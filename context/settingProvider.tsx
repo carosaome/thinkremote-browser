@@ -6,6 +6,7 @@ interface ISettingState {
 	gamePad: IGamePadValue
 	virtMouse: any
 }
+
 interface IGamePadValue {
 	leftScale: number
 	rightScale: number
